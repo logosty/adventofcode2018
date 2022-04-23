@@ -23,7 +23,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <jdk.version>1.8</jdk.version>
-        <spring.version>3.2.10.RELEASE</spring.version>
+        <spring.version>5.3.19</spring.version>
     </properties>
 
     <dependencies>
